@@ -1,0 +1,49 @@
+{
+ "app": "culturee",
+ "charts": [],
+ "content": "[{\"id\":\"X0sngrOApS\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u0644\u062f\u0639\u0648\u064a\u0629</span>\",\"col\":12}},{\"id\":\"xjvpETOOph\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0648\u0639\u0627\u0638 \u0627\u0644\u062c\u062f\u062f\",\"col\":3}},{\"id\":\"5xNNeQQr5_\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0648\u0639\u0627\u0638 \u0627\u0644\u062c\u062f\u062f\",\"col\":3}}]",
+ "creation": "2025-09-11 15:11:18.476996",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "education",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u0644\u062f\u0639\u0648\u064a\u0629",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2025-09-11 16:39:33.643576",
+ "modified_by": "Administrator",
+ "module": "taqafia",
+ "name": "\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u0644\u062f\u0639\u0648\u064a\u0629",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 24.0,
+ "shortcuts": [
+  {
+   "color": "Orange",
+   "doc_view": "List",
+   "label": "\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0648\u0639\u0627\u0638 \u0627\u0644\u062c\u062f\u062f",
+   "link_to": "Data_taq",
+   "stats_filter": "[[\"Data_taq\",\"workflow_state_data_taq\",\"=\",\"\u062c\u062f\u064a\u062f\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "doc_view": "List",
+   "label": "\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0648\u0639\u0627\u0638 \u0627\u0644\u062c\u062f\u062f",
+   "link_to": "Data_taq",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0648\u0627\u0644\u062f\u0639\u0648\u064a\u0629",
+ "type": "Workspace"
+}

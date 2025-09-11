@@ -4,6 +4,9 @@ app_publisher = "alhrary"
 app_description = "my app"
 app_email = "alhraryahmed110@gmail.com"
 app_license = "mit"
+modules = ["culture"]
+fixtures = ["Server Script", "Custom Field", "Property Setter"]
+doc_events = {}
 
 # Apps
 # ------------------
