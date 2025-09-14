@@ -1,0 +1,71 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-09-14 10:59:56.699434",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "\u0628\u064a\u0627\u0646\u0627\u062a_\u0627\u0644\u0648\u0627\u0639\u0638_section",
+  "name_link",
+  "makteb_link",
+  "age_link"
+ ],
+ "fields": [
+  {
+   "fieldname": "\u0628\u064a\u0627\u0646\u0627\u062a_\u0627\u0644\u0648\u0627\u0639\u0638_section",
+   "fieldtype": "Section Break",
+   "label": "\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0648\u0627\u0639\u0638"
+  },
+  {
+   "fetch_from": "namee_link.namee",
+   "fieldname": "name_link",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "\u0627\u0644\u0627\u0633\u0645",
+   "options": "Data_taq",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "name_link.makteb",
+   "fieldname": "makteb_link",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u0645\u0643\u062a\u0628",
+   "options": "Data_taq",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "name_link.age",
+   "fieldname": "age_link",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u0639\u0645\u0631",
+   "options": "Data_taq",
+   "reqd": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-09-14 14:41:35.624216",
+ "modified_by": "Administrator",
+ "module": "taqafia",
+ "name": "Lagna_taq",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
